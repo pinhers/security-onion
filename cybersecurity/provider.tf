@@ -15,9 +15,9 @@ terraform {
 provider "aws" {
   region = "us-east-1"
 
-  access_key = "ASIAW3MD7KI5ZQODPT6P"
-  secret_key = "S/nykX8oIX+cz7c2JbVjC5nq/RyyvwSFmn4r3wQL"
-  token = "FwoGZXIvYXdzEH4aDN3/WLJYQaE7QNkxiSLAAQ7zutW8PjARneMq+ZbP6QXAShahks9WFxN4iaUIfidGmCQF+cVuda4vxwljI3BISv5cNTAVnTTLB/wCuJEOYFcT6g3RnSj/rw4qxK1IBflJ3Tp4l2IzLaxWrxs/1HjA+4Uj7EO4IqEqonWTOwW//ShtuUykzjOTM5V5+iML/NQ34LBnQBWvBCsTIZa731NmrAVzKyHk5hs8YjWBJ//i0i879bzI7nlnTB0TOGpgvAPRTbCsjuP84RaF8UwM+y3HMyj72suvBjItLp/mxkig3C85cdA9KNHVWQsmzIQYVLRSQhLiVngHfGiXewMFAa6rfCyUvkeT"
+  #access_key = ""
+  #secret_key = ""
+  #token = ""
 
   profile = "vocareum"
 }

@@ -1,6 +1,6 @@
 variable "remnux_ami" {
   type = string
-  default = "ami-070b6adcc5582a92c"
+  default = "ami-07c8f32e971547bef"
 }
 
 variable "remnux_type" {
